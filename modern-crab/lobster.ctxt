@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=lobster
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=void\ orientationStart()
+comment2.text=\r\n\ \r\n
+comment3.params=
+comment3.target=void\ moveAround()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ lobster\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ eatCrab()
+comment4.text=\r\n\ \r\n
+comment5.params=
+comment5.target=void\ tranformWormtoLobster()
+comment5.text=\r\n\ \r\n
+numComments=6
